@@ -29,9 +29,10 @@ Jedesmal im Lernatelier immer voll dran bleiben damit ich davon profit ziehen ka
 ## Feinplanung
 Heute muss ich wieder paar Dokumente vom letzten mal bearbeiten da ich sie zeitlich nicht fertig brachte.
 
-
-
-## Reflexion 09.01.2026
+## Reflexion 
 Heute habe ich wieder an den Aufgaben vom Unterricht weiter bearbeitet. Ich bin nocht ganz zwar fertig mit allem aber den Rest könnte ich auch zuhause noch fertig bringen.
 Ich habe heute sehr intensiv gearbeitet da es viel gab in den Aufgaben die man bearbeiten musste kam aber voran auf meinem Tempo. Ich war heute nicht wirklich davon überzeugt irgend etwas zu bearbeiten habe mich aber trotzdem irgendwie überwinden können. Vielleicht lag es auch daran das ich zu wenig Pausen eingelegt habe während dem Arbeiten, da mir der Tag ewig vorkam. Also wichtig fürs nächste mal mehr kurze Pausen immer wieder kurz Bewegen und dann weiter Arbeiten.
+
+## Planung 16.01.2026
+[ ] Dokumente aus dem Unterricht bearbeiten 
 
