@@ -24,7 +24,6 @@ Was haben Sie für klare und messbare Ziele in dieser Lernperiode?
 
 Jedesmal im Lernatelier immer voll dran bleiben damit ich davon profit ziehen kann.
 
-
 ## 09.01.2026
 ## Feinplanung
 Heute muss ich wieder paar Dokumente vom letzten mal bearbeiten da ich sie zeitlich nicht fertig brachte.
@@ -34,5 +33,16 @@ Heute habe ich wieder an den Aufgaben vom Unterricht weiter bearbeitet. Ich bin 
 Ich habe heute sehr intensiv gearbeitet da es viel gab in den Aufgaben die man bearbeiten musste kam aber voran auf meinem Tempo. Ich war heute nicht wirklich davon überzeugt irgend etwas zu bearbeiten habe mich aber trotzdem irgendwie überwinden können. Vielleicht lag es auch daran das ich zu wenig Pausen eingelegt habe während dem Arbeiten, da mir der Tag ewig vorkam. Also wichtig fürs nächste mal mehr kurze Pausen immer wieder kurz Bewegen und dann weiter Arbeiten.
 
 ## Planung 16.01.2026
-- [ ] Dokumente aus dem Unterricht bearbeiten 
+- [ ] Dokumente aus dem Unterricht bearbeiten
+
+
+## 16.01.2026
+## Feinplanung
+Ich will heute damit anfangen Python zu erlernen. Erst muss ich eine Website finden bei dem ich das ganze Schritt für Schritt mir anschauen kann. Dannach kleine Übungen machen damit es dann auch bischen sitzt.
+
+## Reflexion 
+Ich habe heute folgende Website gefunden die mir das erlernen von Python einfacher macht:freecodeCamp. Ich konnt mich hier die Seiten  durcharbeiten wie auch die folgenden Quize lösen. Ich konnte paar kleine Übungen auch schon erledigen. Zwar war nicht alles auf anhieb richtig aber nach mehrfachen Versuchen ging dann das auch. Ich finde das ich heute relativ gut arbeiten konnte. Ich war auch längere Zeit konzentriert und sehr selten abgelenkt. Ich habe viel neues gelernt und konnte auch schon meine Vorerfahrung von C# nutzen um die Aufgaben zulösen, es war also auch schon vieles sehr bekannt.
+
+## Planung 23.01.2026
+- [ ] Dort weiter machen bei dem ich das letztmal stehen geblieben bin
 
