@@ -56,4 +56,4 @@ Heute habe ich erstmal mein Datenmodell fertigstellen können wie auch ich mir v
 
 ## Planung 23.01.2026
 - [ ] Phython weiter lernen
-- [ ] 
+   
