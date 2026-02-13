@@ -56,4 +56,19 @@ Heute habe ich erstmal mein Datenmodell fertigstellen können wie auch ich mir v
 
 ## Planung 23.01.2026
 - [ ] Phython weiter lernen
+
+
+## 13.02.2026
+## Feinplanung
+Ich habe in den beiden Modul viele Dokumente noch zum abgeben die ich noch bearbeiten muss und auch die Dokumentation zu meinem Logischen Datenmodell müsste ich so langsam anfangen.
+
+## Reflexion 
+Ich habe heute sehr erfreut arbeiten können weil ich in sehr guter stimmung war. Ich habe damit angefangen zuerst meine Dokumentation für mein Logisches Datenmodell anzufangen. Da ich aber nicht wirklich gewusst habe was ich zutun war habe ich an de Dokumenten (Abgaben) vom Modul 117 wietergearbeitet. Ich muss tatsächlich noch viel Lernen vorallem für den Test nächste Woche im Netzwerklabor. Heute konnte ich einigermassen effektiv arbeiten können zwar öfters noch abgelenkt aber, irgendwie kam ich trotzdem vorwärts. Ich muss das nächste mal mich wieder auf meine Arbeiten konzentrieren, aber sowies jedesmal eigentlich schön dranbleiben. 
+
+## Planung 23.01.2026
+- [ ]Dokumentation Logische Datenmodell M164 fertig bringen
+- [ ]HZ 3-7 M117 abgeben
+
+
+
    
