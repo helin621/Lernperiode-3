@@ -70,5 +70,14 @@ Ich habe heute sehr erfreut arbeiten können weil ich in sehr guter stimmung war
 - [ ]HZ 3-7 M117 abgeben
 
 
+## 20.02.2026
+## Feinplanung
+Ich muss heute mit der LB 164 heute fertig werden. Das heisst die Dokumentation fertig bringen. 
 
+## Reflexion 
+Ich habe heute beim Devrim, Alex, Tobias und so gearbeitet da ich noch neben dem LB noch für den Netzwerklabor Test am Mittowch lernen wollte. Ich bin zwar fertig mit den Tabellen und den eingefügten Daten im SQL aber ich habe noch die Dokumentation fertig zu bringen mit den einzelnen Schritten und so weiter. Ich konnte heute erstaunlich viel machen können da ich beim Devrim und so viele fragen beantwortet bekommen habe und es allgemein sehr Soass gemacht hat mit ihnen zu arbeiten. Ich konnte effizient arbeiten bin also ein ganzes Stück voran gekommen. Für das nächstemal könnte ich auch vielleicht schauen wieder bei ihnen zu arbeiten da es mir dann einfacher fällt mich zu konzentrieren weil man mit ihnen in einem guten Lerntempo voran kommt.
+
+## Planung 23.01.2026
+- [ ]Neues Modul schauen ob ich da Aufgaben zu erledigen habe
+- [ ]
    
