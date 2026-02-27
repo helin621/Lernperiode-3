@@ -66,8 +66,8 @@ Ich habe in den beiden Modul viele Dokumente noch zum abgeben die ich noch bearb
 Ich habe heute sehr erfreut arbeiten können weil ich in sehr guter stimmung war. Ich habe damit angefangen zuerst meine Dokumentation für mein Logisches Datenmodell anzufangen. Da ich aber nicht wirklich gewusst habe was ich zutun war habe ich an de Dokumenten (Abgaben) vom Modul 117 wietergearbeitet. Ich muss tatsächlich noch viel Lernen vorallem für den Test nächste Woche im Netzwerklabor. Heute konnte ich einigermassen effektiv arbeiten können zwar öfters noch abgelenkt aber, irgendwie kam ich trotzdem vorwärts. Ich muss das nächste mal mich wieder auf meine Arbeiten konzentrieren, aber sowies jedesmal eigentlich schön dranbleiben. 
 
 ## Planung 23.01.2026
-- [ ]Dokumentation Logische Datenmodell M164 fertig bringen
-- [ ]HZ 3-7 M117 abgeben
+- [X]Dokumentation Logische Datenmodell M164 fertig bringen
+- [X]HZ 3-7 M117 abgeben
 
 
 ## 20.02.2026
@@ -77,7 +77,18 @@ Ich muss heute mit der LB 164 heute fertig werden. Das heisst die Dokumentation 
 ## Reflexion 
 Ich habe heute beim Devrim, Alex, Tobias und so gearbeitet da ich noch neben dem LB noch für den Netzwerklabor Test am Mittowch lernen wollte. Ich bin zwar fertig mit den Tabellen und den eingefügten Daten im SQL aber ich habe noch die Dokumentation fertig zu bringen mit den einzelnen Schritten und so weiter. Ich konnte heute erstaunlich viel machen können da ich beim Devrim und so viele fragen beantwortet bekommen habe und es allgemein sehr Soass gemacht hat mit ihnen zu arbeiten. Ich konnte effizient arbeiten bin also ein ganzes Stück voran gekommen. Für das nächstemal könnte ich auch vielleicht schauen wieder bei ihnen zu arbeiten da es mir dann einfacher fällt mich zu konzentrieren weil man mit ihnen in einem guten Lerntempo voran kommt.
 
-## Planung 23.01.2026
+## Planung 27.02.2026
+- [x]Neues Modul schauen ob ich da Aufgaben zu erledigen habe
+
+
+## 27.02.2026
+## Feinplanung
+Heute kann wieder an Phython weiter arbeiten da wir noch kein neues Modul angfangen haben.
+
+## Reflexion 
+Ich habe heute wieder auf der Website von vor den Ferien gearbeitet und es lief wieder ziemlich gut. Die Website erklärt das ganze schön Schritt füt Schritt so das man nach kommt mit eben kleinen Übungen zwischen drin. Ich konnte heute sehr konzentriert arbeiten da ich Kopfhörer drin hatte und alles um mich herum nicht wirklich wahrgenommen habe weswegen ich voll kozentriert dran war. Ich bin zwar noch sehr am Anfang der neuen Programmiersprache aber es kommt ich muss jetzt das nächste mal einfach noch praktisch das auch in einem Programm schreiben dann wäre ich sehr gut dran. 
+
+## Planung 06.03.2026
 - [ ]Neues Modul schauen ob ich da Aufgaben zu erledigen habe
 - [ ]
-   
+
