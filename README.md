@@ -89,8 +89,8 @@ Heute kann wieder an Phython weiter arbeiten da wir noch kein neues Modul angfan
 Ich habe heute wieder auf der Website von vor den Ferien gearbeitet und es lief wieder ziemlich gut. Die Website erklärt das ganze schön Schritt füt Schritt so das man nach kommt mit eben kleinen Übungen zwischen drin. Ich konnte heute sehr konzentriert arbeiten da ich Kopfhörer drin hatte und alles um mich herum nicht wirklich wahrgenommen habe weswegen ich voll kozentriert dran war. Ich bin zwar noch sehr am Anfang der neuen Programmiersprache aber es kommt ich muss jetzt das nächste mal einfach noch praktisch das auch in einem Programm schreiben dann wäre ich sehr gut dran. 
 
 ## Planung 07.03.2026
-- [ ]Neues Modul schauen ob ich da Aufgaben zu erledigen habe
-- [ ]
+- [x] Neues Modul schauen ob ich da Aufgaben zu erledigen habe
+  
 
   ## 7.03.2026
 ## Feinplanung
