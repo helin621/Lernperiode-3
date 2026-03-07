@@ -88,7 +88,17 @@ Heute kann wieder an Phython weiter arbeiten da wir noch kein neues Modul angfan
 ## Reflexion 
 Ich habe heute wieder auf der Website von vor den Ferien gearbeitet und es lief wieder ziemlich gut. Die Website erklärt das ganze schön Schritt füt Schritt so das man nach kommt mit eben kleinen Übungen zwischen drin. Ich konnte heute sehr konzentriert arbeiten da ich Kopfhörer drin hatte und alles um mich herum nicht wirklich wahrgenommen habe weswegen ich voll kozentriert dran war. Ich bin zwar noch sehr am Anfang der neuen Programmiersprache aber es kommt ich muss jetzt das nächste mal einfach noch praktisch das auch in einem Programm schreiben dann wäre ich sehr gut dran. 
 
-## Planung 06.03.2026
+## Planung 07.03.2026
 - [ ]Neues Modul schauen ob ich da Aufgaben zu erledigen habe
 - [ ]
+
+  ## 7.03.2026
+## Feinplanung
+Heute muss ich erstmal noch an einem Dokument aus dem Modul 106 noch fertog arbeiten dann kann ich wieder auf Phython mich konzentrieren.
+
+## Reflexion 
+Ich habe heute das Dokument 1703 aus dem Modul 106 bearbeitet zussammen mit der Zeenia an par stellen. Das ganze ging bischen lang aber irgendwann wurden wir dann aber auch fertig. Dannach habe ich wieder auf der Website bei dem ich das letzte mal dran war weiter mich durch die Übungen durch geübt. Irgendwann gab es keine Aufgaben weshalb ich mir auf Youtube sonst noch Videos mir angeschaut habe um noch das gelernte zu üben und weil ich noch Programm hatte musste ich mir erstmal das noch herunterladen, was ich aber zuhause tun wollte. Im grossen und ganzen war ich heute sehr konzentriert habe meine Aufgaben erledigen können war motiviert an die Sache rangegangen und jetzt auch wo die Sonne scheint fällt das ja einem auch leichter:)
+## Planung 13.03.2026
+- [ ] Modul 106 schauen ob ich da Aufgaben zu erledigen habe
+- [ ] Modul 186 schauen ob ich noch Aufgaben habe zu erledigen
 
