@@ -92,13 +92,26 @@ Ich habe heute wieder auf der Website von vor den Ferien gearbeitet und es lief 
 - [x] Neues Modul schauen ob ich da Aufgaben zu erledigen habe
   
 
-  ## 7.03.2026
+## 7.03.2026
 ## Feinplanung
 Heute muss ich erstmal noch an einem Dokument aus dem Modul 106 noch fertog arbeiten dann kann ich wieder auf Phython mich konzentrieren.
 
 ## Reflexion 
 Ich habe heute das Dokument 1703 aus dem Modul 106 bearbeitet zussammen mit der Zeenia an par stellen. Das ganze ging bischen lang aber irgendwann wurden wir dann aber auch fertig. Dannach habe ich wieder auf der Website bei dem ich das letzte mal dran war weiter mich durch die Übungen durch geübt. Irgendwann gab es keine Aufgaben weshalb ich mir auf Youtube sonst noch Videos mir angeschaut habe um noch das gelernte zu üben und weil ich noch Programm hatte musste ich mir erstmal das noch herunterladen, was ich aber zuhause tun wollte. Im grossen und ganzen war ich heute sehr konzentriert habe meine Aufgaben erledigen können war motiviert an die Sache rangegangen und jetzt auch wo die Sonne scheint fällt das ja einem auch leichter:)
 ## Planung 13.03.2026
+- [x] Modul 106 schauen ob ich da Aufgaben zu erledigen habe
+- [x] Modul 186 schauen ob ich noch Aufgaben habe zu erledigen
+
+
+## 13.03.2026
+## Feinplanung
+Heute habe ich noch ein Dokument aus dem Modul 106 noch zu erledigen dannach würde ich dann schauen was ich sonst noch zutun habe wenn nichts mehr dann würde ich nochmal anschauen was man so in der Informatik alles machen kann.
+
+## Reflexion 
+Heute habe ich erst noch das Dokument gelöst das wir im Modul 106 hatten. Nämlich Backups im SQL. Das ging relativ gut da ich mit den Erklärvideos auf Moodle die Aufgabe sehr gut lösen können. Dannach habe ich mal Recherchiert was ich so in Informatik alles machen kann da ich zwar eigentlich Python mir beibringen wollte aber diesesmal irgendwie mir nicht dannach war weshalb ich nach was anderem suchen wollte. Ich bin dann auf Godot Engine gestossen. Das kann man sich ganz einfach herunterladen und dann einfach Spiele drauf programmieren. Ich bin dann erstmal aber Youtube Tutorials anschauen gegangen da ich das noch nie probiert habe und so kam ich bischen da rein. Insgesamt habe ich heute sehr effizient arbeiten können. Ich war kozentriert an der Arbeit und habe mich nicht Ablenken lassen. Und für das nächste mal würde ich dann selber experimentieren wollen auf der Plattform da ich noch nicht viel machen konnte heute.
+
+## Planung 13.03.2026
 - [ ] Modul 106 schauen ob ich da Aufgaben zu erledigen habe
 - [ ] Modul 186 schauen ob ich noch Aufgaben habe zu erledigen
+- [ ] Godot Engine weiter experimentieren
 
