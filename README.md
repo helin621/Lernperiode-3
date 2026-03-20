@@ -111,7 +111,20 @@ Heute habe ich noch ein Dokument aus dem Modul 106 noch zu erledigen dannach wü
 Heute habe ich erst noch das Dokument gelöst das wir im Modul 106 hatten. Nämlich Backups im SQL. Das ging relativ gut da ich mit den Erklärvideos auf Moodle die Aufgabe sehr gut lösen können. Dannach habe ich mal Recherchiert was ich so in Informatik alles machen kann da ich zwar eigentlich Python mir beibringen wollte aber diesesmal irgendwie mir nicht dannach war weshalb ich nach was anderem suchen wollte. Ich bin dann auf Godot Engine gestossen. Das kann man sich ganz einfach herunterladen und dann einfach Spiele drauf programmieren. Ich bin dann erstmal aber Youtube Tutorials anschauen gegangen da ich das noch nie probiert habe und so kam ich bischen da rein. Insgesamt habe ich heute sehr effizient arbeiten können. Ich war kozentriert an der Arbeit und habe mich nicht Ablenken lassen. Und für das nächste mal würde ich dann selber experimentieren wollen auf der Plattform da ich noch nicht viel machen konnte heute.
 
 ## Planung 13.03.2026
+- [x] Modul 106 schauen ob ich da Aufgaben zu erledigen habe
+- [x] Modul 186 schauen ob ich noch Aufgaben habe zu erledigen
+- [x] Godot Engine weiter experimentieren
+
+
+## 20.03.2026
+## Feinplanung
+Ich muss nochmals noch zwei Dokumente vom Modul 106 fertig bringen da ich während dem unterricht nicht damit fertig wurde dann sollte ich wieder an Godot expementieren.
+
+## Reflexion 
+Heute habe ich zuerst nochmals an den SQL-Backups gearbeitet und einige Aufgaben wiederholt, was gut geklappt hat. Danach habe ich mich weiter mit der Godot Engine beschäftigt. Dieses Mal habe ich nicht nur Tutorials geschaut, sondern auch selber etwas ausprobiert. Zusätzlich habe ich auf der Website W3Schools ein wenig geübt, um meine Grundlagen zu verbessern. Das hat mir geholfen, die Themen besser zu verstehen und direkt anzuwenden. Insgesamt habe ich konzentriert gearbeitet, auch wenn ich bei einigen Aufgaben kurz hängen geblieben bin. Für das nächste Mal möchte ich noch mehr selbstständig ausprobieren und weiter an meinem Projekt arbeiten.
+
+## Planung 27.03.2026
 - [ ] Modul 106 schauen ob ich da Aufgaben zu erledigen habe
 - [ ] Modul 186 schauen ob ich noch Aufgaben habe zu erledigen
-- [ ] Godot Engine weiter experimentieren
+- [ ] Godot Engine dort weiter machen wo ich stehen geblie
 
